@@ -1,0 +1,79 @@
+{
+  "name": "root",
+  "type": "directory",
+  "children": [
+    {
+      "name": "Documents",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Resume.docx",
+          "type": "file",
+          "size": "150 KB",
+          "modified": "2025-03-29T12:30:00",
+          "extension": "docx"
+        },
+        {
+          "name": "Project_Plan.pdf",
+          "type": "file",
+          "size": "1.2 MB",
+          "modified": "2025-03-28T15:45:00",
+          "extension": "pdf"
+        }
+      ]
+    },
+    {
+      "name": "Pictures",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Vacation.jpg",
+          "type": "file",
+          "size": "2.5 MB",
+          "modified": "2025-03-10T09:00:00",
+          "extension": "jpg"
+        },
+        {
+          "name": "Profile_Pic.png",
+          "type": "file",
+          "size": "500 KB",
+          "modified": "2025-01-20T11:20:00",
+          "extension": "png"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Song_1.mp3",
+          "type": "file",
+          "size": "3.5 MB",
+          "modified": "2025-03-20T08:00:00",
+          "extension": "mp3"
+        },
+        {
+          "name": "Song_2.wav",
+          "type": "file",
+          "size": "7.2 MB",
+          "modified": "2025-02-15T14:45:00",
+          "extension": "wav"
+        }
+      ]
+    },
+    {
+      "name": "Videos",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Movie.mp4",
+          "type": "file",
+          "size": "700 MB",
+          "modified": "2025-03-01T17:30:00",
+          "extension": "mp4"
+        }
+      ]
+    }
+  ]
+}
