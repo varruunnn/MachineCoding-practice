@@ -1,2 +1,0 @@
-# ProgressbarMachineCoding
-Created with CodeSandbox
